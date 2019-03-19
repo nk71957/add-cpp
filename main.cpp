@@ -9,6 +9,6 @@ int main()
     cin >> a;
     cout <<"please enter the 2nd number";
     cin >>b;
-    cout <<"a+b=",a,b;
+    cout <<"a + b = ",a,b;
     return 0;
 }
